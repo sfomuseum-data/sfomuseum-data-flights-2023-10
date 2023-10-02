@@ -2,10 +2,12 @@
   "id": 1880548157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-01",
+    "date:cessation_upper": "2023-10-01",
     "date:inception_lower": "2023-10-01",
     "date:inception_upper": "2023-10-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-01",
+    "edtf:cessation": "2023-10-01T23:58:01Z",
+    "edtf:inception": "2023-10-01T18:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20231001-D-ITY-3280",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "51406384",
+      "swim:gufi": "KO64861100"
+    },
     "wof:country": "US",
     "wof:created": 1696263834,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880548157,
     "wof:involves": [
+      1159289939,
       102534365,
       102527513,
       1159284261,
       1763588247,
       1763699293
     ],
-    "wof:lastmodified": 1696263834,
+    "wof:lastmodified": 1696264383,
     "wof:name": "DL487 (SFO-JFK)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

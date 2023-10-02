@@ -2,10 +2,12 @@
   "id": 1880543739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-02",
+    "date:cessation_upper": "2023-10-02",
     "date:inception_lower": "2023-10-01",
     "date:inception_upper": "2023-10-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-01",
+    "edtf:cessation": "2023-10-02T00:47:04Z",
+    "edtf:inception": "2023-10-01T23:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231001-A-AAL-7462",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N527AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "51431508"
+    },
     "wof:country": "US",
     "wof:created": 1696262768,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880543739,
     "wof:involves": [
+      1159289871,
       102527513,
       102533269,
       1159283813,
       1763588139,
       1159283849
     ],
-    "wof:lastmodified": 1696262768,
+    "wof:lastmodified": 1696264369,
     "wof:name": "AS1140 (SEA-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

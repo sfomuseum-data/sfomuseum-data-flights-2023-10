@@ -2,10 +2,12 @@
   "id": 1880548133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-02",
+    "date:cessation_upper": "2023-10-02",
     "date:inception_lower": "2023-10-01",
     "date:inception_upper": "2023-10-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-01",
+    "edtf:cessation": "2023-10-02T02:25:00Z",
+    "edtf:inception": "2023-10-01T22:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20231001-D-ITY-2750",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N863DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "51428416",
+      "swim:gufi": "KO76621100"
+    },
     "wof:country": "US",
     "wof:created": 1696263829,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880548133,
     "wof:involves": [
+      1763699293,
+      1377564285,
       102526927,
       102527513,
       1159284261,
-      1763588247,
-      1763699293
+      1763588247
     ],
-    "wof:lastmodified": 1696263829,
+    "wof:lastmodified": 1696264383,
     "wof:name": "DL324 (SFO-ATL)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

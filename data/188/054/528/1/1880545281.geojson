@@ -2,10 +2,12 @@
   "id": 1880545281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-01",
+    "date:cessation_upper": "2023-10-01",
     "date:inception_lower": "2023-10-01",
     "date:inception_upper": "2023-10-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-01",
+    "edtf:cessation": "2023-10-01T09:25:00Z",
+    "edtf:inception": "2023-10-01T05:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2023-10-01",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "51354070"
+    },
     "wof:country": "US",
     "wof:created": 1696263157,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -50,7 +55,7 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1696263157,
+    "wof:lastmodified": 1696264395,
     "wof:name": "SY8723 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
