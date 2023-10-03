@@ -2,10 +2,12 @@
   "id": 1880557355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-02",
+    "date:cessation_upper": "2023-10-02",
     "date:inception_lower": "2023-10-02",
     "date:inception_upper": "2023-10-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-02",
+    "edtf:cessation": "2023-10-02T21:38:00Z",
+    "edtf:inception": "2023-10-02T17:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-10-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N3734B",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "51567407",
+      "swim:gufi": "KO56761200"
+    },
     "wof:country": "US",
     "wof:created": 1696350239,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1880557355,
     "wof:involves": [
+      1159289871,
       102525635,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1696350239,
+    "wof:lastmodified": 1696350789,
     "wof:name": "DL9962 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
