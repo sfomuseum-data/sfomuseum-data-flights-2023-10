@@ -2,10 +2,12 @@
   "id": 1880564387,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-03",
+    "date:cessation_upper": "2023-10-03",
     "date:inception_lower": "2023-10-03",
     "date:inception_upper": "2023-10-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-03",
+    "edtf:cessation": "2023-10-03T00:33:26-07:00",
+    "edtf:inception": "2023-10-03T13:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231003-A-ANA-7309",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77543",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "51575095",
+      "swim:gufi": "KL40122300"
+    },
     "wof:country": "US",
     "wof:created": 1696436052,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -90,9 +103,10 @@
       102527209,
       1159285413,
       1763588159,
-      1159283875
+      1159283875,
+      1528104577
     ],
-    "wof:lastmodified": 1696436052,
+    "wof:lastmodified": 1696437246,
     "wof:name": "UA1483 (LAS-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

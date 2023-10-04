@@ -2,10 +2,12 @@
   "id": 1880563597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-03",
+    "date:cessation_upper": "2023-10-03",
     "date:inception_lower": "2023-10-03",
     "date:inception_upper": "2023-10-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-03",
+    "edtf:cessation": "2023-10-03T17:55:47Z",
+    "edtf:inception": "2023-10-03T07:54:28Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KE",
     "flysfo:date": "2023-10-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.590524,
     "geom:longitude": 2.214913000000003,
     "iata:airline": "KE",
+    "icao:aircraft": "B737",
     "icao:airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159284625,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102556445,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "51667561"
+    },
     "wof:country": "US",
     "wof:created": 1696435855,
     "wof:geomhash": "3ccef5323f8b759efee07225c392c83b",
@@ -45,12 +55,12 @@
     ],
     "wof:id": 1880563597,
     "wof:involves": [
-      102527513,
       102556445,
       1159284625,
-      -1
+      1159289869,
+      102527513
     ],
-    "wof:lastmodified": 1696435855,
+    "wof:lastmodified": 1696437243,
     "wof:name": "KE2451 (GMP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

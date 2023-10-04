@@ -2,10 +2,12 @@
   "id": 1880566851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-04",
+    "date:cessation_upper": "2023-10-04",
     "date:inception_lower": "2023-10-03",
     "date:inception_upper": "2023-10-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-03",
+    "edtf:cessation": "2023-10-04T08:59:00Z",
+    "edtf:inception": "2023-10-03T14:42:45-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:base_flight_id": "20231003-D-KAL-3471",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N924DZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO12961400"
+    },
     "wof:country": "US",
     "wof:created": 1696436661,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880566851,
     "wof:involves": [
-      102525635,
       102527513,
       1159284261,
       1763588247,
-      1159284625
+      1159284625,
+      1377564285,
+      102525635
     ],
-    "wof:lastmodified": 1696436661,
+    "wof:lastmodified": 1696437265,
     "wof:name": "DL400 (SFO-DTW)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

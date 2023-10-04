@@ -2,10 +2,12 @@
   "id": 1880568695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-04",
+    "date:cessation_upper": "2023-10-04",
     "date:inception_lower": "2023-10-03",
     "date:inception_upper": "2023-10-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-03",
+    "edtf:cessation": "2023-10-04T06:42:00Z",
+    "edtf:inception": "2023-10-03T15:48:53-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-10-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.838961999999995,
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N79521",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO13409400"
+    },
     "wof:country": "US",
     "wof:created": 1696437118,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1880568695,
     "wof:involves": [
+      1159289871,
       102533575,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1696437118,
+    "wof:lastmodified": 1696437259,
     "wof:name": "UA8180 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
