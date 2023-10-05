@@ -2,10 +2,12 @@
   "id": 1880584469,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-04",
-    "date:inception_upper": "2023-10-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-04",
+    "date:cessation_lower": "2023-10-05",
+    "date:cessation_upper": "2023-10-05",
+    "date:inception_lower": "2023-10-05",
+    "date:inception_upper": "2023-10-05",
+    "edtf:cessation": "2023-10-05T07:09:00Z",
+    "edtf:inception": "2023-10-05T05:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:base_flight_id": "20231004-D-ACA-5608",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N419UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "51656572",
+      "swim:gufi": "KO13362500"
+    },
     "wof:country": "US",
     "wof:created": 1696529726,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880584469,
     "wof:involves": [
+      1159292085,
       102528997,
       102527513,
       1159285413,
       1763588291,
       1159283597
     ],
-    "wof:lastmodified": 1696529726,
+    "wof:lastmodified": 1696534671,
     "wof:name": "UA297 (SFO-SAN)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880584305,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-05",
+    "date:cessation_upper": "2023-10-05",
     "date:inception_lower": "2023-10-04",
     "date:inception_upper": "2023-10-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-04",
+    "edtf:cessation": "2023-10-05T06:59:00Z",
+    "edtf:inception": "2023-10-04T12:06:42-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532929,
     "sfomuseum:base_flight_id": "20231004-D-DLH-9204",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76526",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO81713400"
+    },
     "wof:country": "US",
     "wof:created": 1696529687,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -90,9 +102,10 @@
       102527513,
       1159285413,
       1763588329,
-      1159286015
+      1159286015,
+      1159289871
     ],
-    "wof:lastmodified": 1696529687,
+    "wof:lastmodified": 1696534663,
     "wof:name": "UA1749 (SFO-OGG)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

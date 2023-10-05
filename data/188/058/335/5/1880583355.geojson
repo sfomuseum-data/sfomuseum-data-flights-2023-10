@@ -2,10 +2,12 @@
   "id": 1880583355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-05",
+    "date:cessation_upper": "2023-10-05",
     "date:inception_lower": "2023-10-04",
     "date:inception_upper": "2023-10-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-04",
+    "edtf:cessation": "2023-10-05T09:18:34Z",
+    "edtf:inception": "2023-10-04T22:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AZ",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -55.0628825,
     "iata:airline": "AZ",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "ITY",
     "icao:base_airline": "ETD",
     "lbl:latitude": 37.612048,
     "lbl:longitude": -122.389573,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1763699293,
     "sfomuseum:arrival_id": 102547941,
     "sfomuseum:base_flight_id": "20231004-D-ETD-2971",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "EIIFF",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "51821246"
+    },
     "wof:country": "US",
     "wof:created": 1696529449,
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1880583355,
     "wof:involves": [
+      1159285587,
+      1377564293,
       102547941,
       102527513,
       1763699293,
-      1763588413,
-      1159285587
+      1763588413
     ],
-    "wof:lastmodified": 1696529449,
+    "wof:lastmodified": 1696534632,
     "wof:name": "AZ641 (SFO-FCO)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880579671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-04",
+    "date:cessation_upper": "2023-10-04",
     "date:inception_lower": "2023-10-04",
     "date:inception_upper": "2023-10-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-04",
+    "edtf:cessation": "2023-10-04T19:17:12Z",
+    "edtf:inception": "2023-10-04T09:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:date": "2023-10-04",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "51770626"
+    },
     "wof:country": "US",
     "wof:created": 1696528546,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -50,7 +55,7 @@
       1159284613,
       -1
     ],
-    "wof:lastmodified": 1696528546,
+    "wof:lastmodified": 1696534506,
     "wof:name": "KL109 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
