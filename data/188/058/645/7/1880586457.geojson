@@ -2,10 +2,12 @@
   "id": 1880586457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-05",
+    "date:cessation_upper": "2023-10-05",
     "date:inception_lower": "2023-10-05",
     "date:inception_upper": "2023-10-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-05",
+    "edtf:cessation": "2023-10-05T07:24:00Z",
+    "edtf:inception": "2023-10-05T06:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:date": "2023-10-05",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "51757645"
+    },
     "wof:country": "US",
     "wof:created": 1696608129,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -50,7 +55,7 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1696608129,
+    "wof:lastmodified": 1696610050,
     "wof:name": "OZ284 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
