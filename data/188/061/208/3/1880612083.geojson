@@ -2,10 +2,12 @@
   "id": 1880612083,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-07",
-    "date:inception_upper": "2023-10-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-07",
+    "date:cessation_lower": "2023-10-07",
+    "date:cessation_upper": "2023-10-07",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2023-10-07T02:28:54-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231007-A-ANZ-9005",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N805UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880612083,
     "wof:involves": [
-      102527513,
       102526927,
       1159285413,
       1763588337,
-      1159283697
+      1159283697,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1696781725,
+    "wof:lastmodified": 1696782721,
     "wof:name": "UA790 (ATL-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
