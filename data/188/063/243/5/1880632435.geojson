@@ -1,0 +1,69 @@
+{
+  "id": 1880632435,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-10-09",
+    "date:inception_upper": "2023-10-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-10-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2023-10-09",
+    "flysfo:estimated_timestamp": 1696864440,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL430",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-BFL",
+    "flysfo:scheduled_timestamp": 1696863900,
+    "flysfo:timestamp": 1696864440,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.425802,-119.047271,37.617990",
+    "geom:latitude": 36.521896,
+    "geom:longitude": -120.70910699999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527035,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20231009-D-DAL-430",
+    "sfomuseum:flight_number": [
+      "DAL430",
+      "DL430"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1696955207,
+    "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880632435
+      }
+    ],
+    "wof:id": 1880632435,
+    "wof:involves": [
+      102527035,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1696955207,
+    "wof:name": "DL430 (SFO-BFL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.425802,
+    -119.047271,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.047271,35.425802]],"type":"MultiPoint"}
+}
