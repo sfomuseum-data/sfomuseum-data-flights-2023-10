@@ -2,10 +2,12 @@
   "id": 1880643061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-11",
+    "date:cessation_upper": "2023-10-11",
     "date:inception_lower": "2023-10-10",
     "date:inception_upper": "2023-10-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-10",
+    "edtf:cessation": "2023-10-11T04:00:00Z",
+    "edtf:inception": "2023-10-10T23:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.809414,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529403,
     "sfomuseum:base_flight_id": "20231010-D-ANZ-9360",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "52387856",
+      "swim:gufi": "KO78950300"
+    },
     "wof:country": "US",
     "wof:created": 1697041793,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880643061,
     "wof:involves": [
+      1159283697,
+      1528104575,
       102529403,
       102527513,
       1159285413,
-      1763588343,
-      1159283697
+      1763588343
     ],
-    "wof:lastmodified": 1697041793,
+    "wof:lastmodified": 1697042028,
     "wof:name": "UA2055 (SFO-PHL)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

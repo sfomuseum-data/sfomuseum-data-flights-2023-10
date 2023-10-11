@@ -2,10 +2,12 @@
   "id": 1880638019,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-10",
-    "date:inception_upper": "2023-10-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-10",
+    "date:cessation_lower": "2023-10-10",
+    "date:cessation_upper": "2023-10-10",
+    "date:inception_lower": "2023-10-11",
+    "date:inception_upper": "2023-10-11",
+    "edtf:cessation": "2023-10-10T12:24:35-07:00",
+    "edtf:inception": "2023-10-11T01:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2023-10-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N316FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL84575300"
+    },
     "wof:country": "US",
     "wof:created": 1697040582,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1880638019,
     "wof:involves": [
+      1377564295,
       102527513,
       102527209,
       1159284401,
       1763588427
     ],
-    "wof:lastmodified": 1697040582,
+    "wof:lastmodified": 1697042020,
     "wof:name": "F92061 (LAS-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

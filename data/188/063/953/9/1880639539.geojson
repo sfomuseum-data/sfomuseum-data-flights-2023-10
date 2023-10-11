@@ -2,10 +2,12 @@
   "id": 1880639539,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-10",
+    "date:cessation_upper": "2023-10-10",
     "date:inception_lower": "2023-10-10",
     "date:inception_upper": "2023-10-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-10",
+    "edtf:cessation": "2023-10-10T23:49:00Z",
+    "edtf:inception": "2023-10-10T22:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231010-A-ANZ-9425",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N828UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "52378798",
+      "swim:gufi": "KS69420300"
+    },
     "wof:country": "US",
     "wof:created": 1697040954,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -90,9 +102,10 @@
       102533269,
       1159285413,
       1763588283,
-      1159283697
+      1159283697,
+      1159289407
     ],
-    "wof:lastmodified": 1697040954,
+    "wof:lastmodified": 1697042032,
     "wof:name": "UA737 (SEA-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

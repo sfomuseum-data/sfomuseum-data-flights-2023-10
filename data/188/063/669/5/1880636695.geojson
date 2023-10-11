@@ -2,10 +2,12 @@
   "id": 1880636695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-11",
+    "date:cessation_upper": "2023-10-11",
     "date:inception_lower": "2023-10-10",
     "date:inception_upper": "2023-10-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-10",
+    "edtf:cessation": "2023-10-11T01:06:54Z",
+    "edtf:inception": "2023-10-10T11:10:10Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2023-10-10",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "52468897"
+    },
     "wof:country": "US",
     "wof:created": 1697040254,
     "wof:geomhash": "c9618692327b148a3f9466df78845400",
@@ -86,7 +91,7 @@
       1159283649,
       1763588431
     ],
-    "wof:lastmodified": 1697040254,
+    "wof:lastmodified": 1697042012,
     "wof:name": "AI183 (DEL-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",
