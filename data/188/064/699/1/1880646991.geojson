@@ -2,10 +2,12 @@
   "id": 1880646991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-11",
+    "date:cessation_upper": "2023-10-11",
     "date:inception_lower": "2023-10-11",
     "date:inception_upper": "2023-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-11",
+    "edtf:cessation": "2023-10-11T18:40:15Z",
+    "edtf:inception": "2023-10-11T17:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CI",
     "flysfo:date": "2023-10-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "CI",
+    "icao:aircraft": "B77L",
     "icao:airline": "CAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159284153,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "B18776",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "52468135"
+    },
     "wof:country": "US",
     "wof:created": 1697126860,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1880646991,
     "wof:involves": [
+      1159289989,
       102527513,
       102533795,
-      1159284153,
-      -1
+      1159284153
     ],
-    "wof:lastmodified": 1697126860,
+    "wof:lastmodified": 1697128364,
     "wof:name": "CI5107 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
