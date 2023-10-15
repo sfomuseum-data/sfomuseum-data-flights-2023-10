@@ -2,10 +2,12 @@
   "id": 1880677501,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-14",
-    "date:inception_upper": "2023-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-14",
+    "date:cessation_lower": "2023-10-15",
+    "date:cessation_upper": "2023-10-15",
+    "date:inception_lower": "2023-10-15",
+    "date:inception_upper": "2023-10-15",
+    "edtf:cessation": "2023-10-15T05:51:00Z",
+    "edtf:inception": "2023-10-15T04:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2023-10-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.838961999999995,
     "geom:longitude": -119.97934599999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A21N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N619FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO13079100"
+    },
     "wof:country": "US",
     "wof:created": 1697387040,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1880677501,
     "wof:involves": [
-      102533575,
       102527513,
       1159284401,
-      1763588419
+      1763588419,
+      1377564297,
+      102533575
     ],
-    "wof:lastmodified": 1697387040,
+    "wof:lastmodified": 1697387527,
     "wof:name": "F91150 (SFO-ONT)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",
