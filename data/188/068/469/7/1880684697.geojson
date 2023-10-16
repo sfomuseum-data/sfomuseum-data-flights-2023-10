@@ -2,10 +2,12 @@
   "id": 1880684697,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-15",
-    "date:inception_upper": "2023-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-15",
+    "date:cessation_lower": "2023-10-16",
+    "date:cessation_upper": "2023-10-16",
+    "date:inception_lower": "2023-10-16",
+    "date:inception_upper": "2023-10-16",
+    "edtf:cessation": "2023-10-16T05:21:37Z",
+    "edtf:inception": "2023-10-16T00:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2023-10-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "A321",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CFGKP",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "52973096",
+      "swim:gufi": "KO73294100"
+    },
     "wof:country": "US",
     "wof:created": 1697473259,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1880684697,
     "wof:involves": [
+      1159289411,
       102555091,
       102527513,
-      1159283597,
-      -1
+      1159283597
     ],
-    "wof:lastmodified": 1697473259,
+    "wof:lastmodified": 1697474172,
     "wof:name": "AC7050 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

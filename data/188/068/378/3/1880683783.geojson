@@ -2,10 +2,12 @@
   "id": 1880683783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-16",
+    "date:cessation_upper": "2023-10-16",
     "date:inception_lower": "2023-10-15",
     "date:inception_upper": "2023-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-15",
+    "edtf:cessation": "2023-10-16T01:17:00Z",
+    "edtf:inception": "2023-10-15T22:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-10-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.459714,
     "geom:longitude": -109.134272,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102524739,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N483UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "53001693",
+      "swim:gufi": "KP56223100"
+    },
     "wof:country": "US",
     "wof:created": 1697473024,
     "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1880683783,
     "wof:involves": [
+      1159292085,
       102527513,
       102524739,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1697473024,
+    "wof:lastmodified": 1697474169,
     "wof:name": "UA8183 (OMA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
