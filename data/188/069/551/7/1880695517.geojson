@@ -2,10 +2,12 @@
   "id": 1880695517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-17",
+    "date:cessation_upper": "2023-10-17",
     "date:inception_lower": "2023-10-16",
     "date:inception_upper": "2023-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-16",
+    "edtf:cessation": "2023-10-17T00:42:00Z",
+    "edtf:inception": "2023-10-16T23:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-10-16",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53047757"
+    },
     "wof:country": "US",
     "wof:created": 1697560093,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1697560093,
+    "wof:lastmodified": 1697560428,
     "wof:name": "WN2538 (SFO-PHX)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",
