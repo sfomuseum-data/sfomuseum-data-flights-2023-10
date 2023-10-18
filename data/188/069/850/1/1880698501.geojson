@@ -2,10 +2,12 @@
   "id": 1880698501,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-17",
-    "date:inception_upper": "2023-10-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-17",
+    "date:cessation_lower": "2023-10-18",
+    "date:cessation_upper": "2023-10-18",
+    "date:inception_lower": "2023-10-18",
+    "date:inception_upper": "2023-10-18",
+    "edtf:cessation": "2023-10-18T05:43:14Z",
+    "edtf:inception": "2023-10-18T04:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231017-A-BAW-2950",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N469AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880698501,
     "wof:involves": [
+      1159284021,
+      1377564285,
       102527513,
       102533269,
       1159283813,
-      1763588129,
-      1159284021
+      1763588129
     ],
-    "wof:lastmodified": 1697645192,
+    "wof:lastmodified": 1697646564,
     "wof:name": "AS1174 (SEA-SFO)",
     "wof:parent_id": 1763588129,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880703375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-17",
+    "date:cessation_upper": "2023-10-17",
     "date:inception_lower": "2023-10-17",
     "date:inception_upper": "2023-10-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-17",
+    "edtf:cessation": "2023-10-17T23:12:25Z",
+    "edtf:inception": "2023-10-17T04:49:14-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-10-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.838595,
     "geom:longitude": -99.0408815,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531643,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N498UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "53121896",
+      "swim:gufi": "KO53940300"
+    },
     "wof:country": "US",
     "wof:created": 1697646401,
     "wof:geomhash": "10dcabd05a0d591d7ecee0587551ae16",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1880703375,
     "wof:involves": [
+      1159292085,
       102531643,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1697646401,
+    "wof:lastmodified": 1697646585,
     "wof:name": "UA3867 (SFO-LCQ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
