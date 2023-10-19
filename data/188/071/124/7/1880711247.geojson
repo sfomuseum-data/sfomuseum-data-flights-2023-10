@@ -2,10 +2,12 @@
   "id": 1880711247,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-18",
+    "date:cessation_upper": "2023-10-18",
     "date:inception_lower": "2023-10-18",
     "date:inception_upper": "2023-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-18",
+    "edtf:cessation": "2023-10-18T20:08:00Z",
+    "edtf:inception": "2023-10-18T01:56:03-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-10-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532255,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N874UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53212573",
+      "swim:gufi": "KO44020400"
+    },
     "wof:country": "US",
     "wof:created": 1697732978,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -84,9 +98,10 @@
       102532255,
       102527513,
       1159285413,
-      1763588351
+      1763588351,
+      1159289407
     ],
-    "wof:lastmodified": 1697732978,
+    "wof:lastmodified": 1697733238,
     "wof:name": "UA1263 (SFO-CMH)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",
