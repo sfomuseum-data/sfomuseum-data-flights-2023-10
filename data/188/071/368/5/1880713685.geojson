@@ -2,10 +2,12 @@
   "id": 1880713685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-19",
+    "date:cessation_upper": "2023-10-19",
     "date:inception_lower": "2023-10-19",
     "date:inception_upper": "2023-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-19",
+    "edtf:cessation": "2023-10-19T22:29:00Z",
+    "edtf:inception": "2023-10-19T21:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2023-10-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N559UW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53360677",
+      "swim:gufi": "KA69446500"
+    },
     "wof:country": "US",
     "wof:created": 1697817715,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -84,9 +98,10 @@
       102527513,
       102526751,
       1159283849,
-      1763588201
+      1763588201,
+      1159289411
     ],
-    "wof:lastmodified": 1697817715,
+    "wof:lastmodified": 1697819824,
     "wof:name": "AA2398 (PHX-SFO)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

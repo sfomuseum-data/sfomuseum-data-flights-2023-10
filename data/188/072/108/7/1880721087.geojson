@@ -2,10 +2,12 @@
   "id": 1880721087,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-20",
+    "date:cessation_upper": "2023-10-20",
     "date:inception_lower": "2023-10-19",
     "date:inception_upper": "2023-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-19",
+    "edtf:cessation": "2023-10-20T00:40:05Z",
+    "edtf:inception": "2023-10-19T23:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20231019-D-AVA-2036",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N33262",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53379071",
+      "swim:gufi": "KO75480500"
+    },
     "wof:country": "US",
     "wof:created": 1697819594,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -90,9 +103,10 @@
       102527513,
       1159285413,
       1763588339,
-      1159285749
+      1159285749,
+      1159289871
     ],
-    "wof:lastmodified": 1697819594,
+    "wof:lastmodified": 1697819836,
     "wof:name": "UA447 (SFO-SEA)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

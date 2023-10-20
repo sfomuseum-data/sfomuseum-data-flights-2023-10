@@ -2,10 +2,12 @@
   "id": 1880716931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-19",
+    "date:cessation_upper": "2023-10-19",
     "date:inception_lower": "2023-10-19",
     "date:inception_upper": "2023-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-19",
+    "edtf:cessation": "2023-10-19T10:33:33-07:00",
+    "edtf:inception": "2023-10-19T23:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231019-A-ANZ-9243",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77576",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53379532",
+      "swim:gufi": "KL71380500"
+    },
     "wof:country": "US",
     "wof:created": 1697818579,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -90,9 +104,10 @@
       102527209,
       1159285413,
       1763588351,
-      1159283697
+      1159283697,
+      1528104577
     ],
-    "wof:lastmodified": 1697818579,
+    "wof:lastmodified": 1697819857,
     "wof:name": "UA2047 (LAS-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

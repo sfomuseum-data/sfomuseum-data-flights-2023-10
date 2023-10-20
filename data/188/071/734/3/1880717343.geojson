@@ -2,10 +2,12 @@
   "id": 1880717343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-19",
+    "date:cessation_upper": "2023-10-19",
     "date:inception_lower": "2023-10-19",
     "date:inception_upper": "2023-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-19",
+    "edtf:cessation": "2023-10-19T13:43:00Z",
+    "edtf:inception": "2023-10-19T02:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 26.208867500000004,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231019-A-ANZ-9816",
@@ -53,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53277909",
+      "swim:gufi": "KO44322500"
+    },
     "wof:country": "US",
     "wof:created": 1697818676,
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
@@ -90,9 +98,10 @@
       102552389,
       1159285413,
       1763588441,
-      1159283697
+      1159283697,
+      1159289985
     ],
-    "wof:lastmodified": 1697818676,
+    "wof:lastmodified": 1697819860,
     "wof:name": "UA916 (AKL-SFO)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

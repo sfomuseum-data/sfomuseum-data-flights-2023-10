@@ -2,10 +2,12 @@
   "id": 1880720825,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-19",
+    "date:cessation_upper": "2023-10-19",
     "date:inception_lower": "2023-10-19",
     "date:inception_upper": "2023-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-19",
+    "edtf:cessation": "2023-10-19T22:04:00Z",
+    "edtf:inception": "2023-10-19T18:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20231019-D-ACA-5156",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N801UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53340689",
+      "swim:gufi": "KO49995500"
+    },
     "wof:country": "US",
     "wof:created": 1697819530,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588319,
-      1159283597
+      1159283597,
+      1159289407
     ],
-    "wof:lastmodified": 1697819530,
+    "wof:lastmodified": 1697819831,
     "wof:name": "UA1240 (SFO-DFW)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",
