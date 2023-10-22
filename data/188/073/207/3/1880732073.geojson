@@ -1,0 +1,69 @@
+{
+  "id": 1880732073,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-10-21",
+    "date:inception_upper": "2023-10-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-10-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "IB",
+    "flysfo:date": "2023-10-21",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "IB717",
+    "flysfo:gate": "",
+    "flysfo:journey": "SAN-SFO",
+    "flysfo:scheduled_timestamp": 1697914620,
+    "flysfo:timestamp": 1697914620,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "IB",
+    "icao:airline": "IBE",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284511,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528997,
+    "sfomuseum:flight_id": "20231021-A-IBE-717",
+    "sfomuseum:flight_number": [
+      "IBE717",
+      "IB717"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1697991067,
+    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880732073
+      }
+    ],
+    "wof:id": 1880732073,
+    "wof:involves": [
+      102527513,
+      102528997,
+      1159284511,
+      -1
+    ],
+    "wof:lastmodified": 1697991067,
+    "wof:name": "IB717 (SAN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
