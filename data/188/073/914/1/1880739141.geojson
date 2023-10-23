@@ -2,10 +2,12 @@
   "id": 1880739141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-23",
+    "date:cessation_upper": "2023-10-23",
     "date:inception_lower": "2023-10-22",
     "date:inception_upper": "2023-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-22",
+    "edtf:cessation": "2023-10-23T05:02:03Z",
+    "edtf:inception": "2023-10-22T16:54:26Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2023-10-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.9627305,
     "geom:longitude": -4.221753499999998,
     "iata:airline": "CX",
+    "icao:aircraft": "A359",
     "icao:airline": "CPA",
     "lbl:latitude": 37.61227,
     "lbl:longitude": -122.390079,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159284127,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541737,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "BLRB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1880739141,
     "wof:involves": [
+      1763588431,
+      1377564293,
       102527513,
       102541737,
-      1159284127,
-      1763588431
+      1159284127
     ],
-    "wof:lastmodified": 1698077385,
+    "wof:lastmodified": 1698103457,
     "wof:name": "CX872 (HKG-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

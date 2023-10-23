@@ -2,10 +2,12 @@
   "id": 1880740581,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-22",
-    "date:inception_upper": "2023-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-22",
+    "date:cessation_lower": "2023-10-22",
+    "date:cessation_upper": "2023-10-22",
+    "date:inception_lower": "2023-10-23",
+    "date:inception_upper": "2023-10-23",
+    "edtf:cessation": "2023-10-22T14:06:22-07:00",
+    "edtf:inception": "2023-10-23T00:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231022-A-ANZ-9322",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N57863",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KG76593100"
+    },
     "wof:country": "US",
     "wof:created": 1698077753,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880740581,
     "wof:involves": [
+      1159289945,
       102527513,
       102533631,
       1159285413,
       1763588329,
       1159283697
     ],
-    "wof:lastmodified": 1698077753,
+    "wof:lastmodified": 1698103446,
     "wof:name": "UA1836 (ORD-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

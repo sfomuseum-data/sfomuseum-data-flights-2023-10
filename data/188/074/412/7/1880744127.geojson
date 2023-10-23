@@ -2,10 +2,12 @@
   "id": 1880744127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-23",
+    "date:cessation_upper": "2023-10-23",
     "date:inception_lower": "2023-10-22",
     "date:inception_upper": "2023-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-22",
+    "edtf:cessation": "2023-10-23T00:18:00Z",
+    "edtf:inception": "2023-10-22T23:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-10-22",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53702058"
+    },
     "wof:country": "US",
     "wof:created": 1698078608,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -86,7 +91,7 @@
       1159285591,
       1763588193
     ],
-    "wof:lastmodified": 1698078608,
+    "wof:lastmodified": 1698103477,
     "wof:name": "WN418 (SFO-BUR)",
     "wof:parent_id": 1763588193,
     "wof:placetype": "custom",
