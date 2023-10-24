@@ -2,10 +2,12 @@
   "id": 1880752119,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-23",
-    "date:inception_upper": "2023-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-23",
+    "date:cessation_lower": "2023-10-24",
+    "date:cessation_upper": "2023-10-24",
+    "date:inception_lower": "2023-10-24",
+    "date:inception_upper": "2023-10-24",
+    "edtf:cessation": "2023-10-24T01:37:48Z",
+    "edtf:inception": "2023-10-24T00:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-10-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N201LV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53808953"
+    },
     "wof:country": "US",
     "wof:created": 1698165067,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -84,9 +97,10 @@
       102526751,
       102527513,
       1159285591,
-      1763588189
+      1763588189,
+      1159289869
     ],
-    "wof:lastmodified": 1698165067,
+    "wof:lastmodified": 1698165435,
     "wof:name": "WN2538 (SFO-PHX)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",
