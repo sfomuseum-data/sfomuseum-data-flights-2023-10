@@ -2,10 +2,12 @@
   "id": 1880736843,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-22",
+    "date:cessation_upper": "2023-10-22",
     "date:inception_lower": "2023-10-21",
     "date:inception_upper": "2023-10-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-21",
+    "edtf:cessation": "2023-10-22T09:07:44Z",
+    "edtf:inception": "2023-10-21T20:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-10-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.381651,
     "geom:longitude": -0.285817999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102550331,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "53597530",
+      "swim:gufi": "KO61901700"
+    },
     "wof:country": "US",
     "wof:created": 1697992246,
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1880736843,
     "wof:involves": [
+      1159293215,
       102550331,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1697992246,
+    "wof:lastmodified": 1698106192,
     "wof:name": "UA3867 (SFO-PVG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
