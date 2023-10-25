@@ -2,10 +2,12 @@
   "id": 1880755921,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-24",
+    "date:cessation_upper": "2023-10-24",
     "date:inception_lower": "2023-10-24",
     "date:inception_upper": "2023-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-24",
+    "edtf:cessation": "2023-10-24T20:05:04Z",
+    "edtf:inception": "2023-10-24T10:01:12Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KE",
     "flysfo:date": "2023-10-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "KE",
+    "icao:aircraft": "B789",
     "icao:airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159284625,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102556451,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "HL8083",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53841765"
+    },
     "wof:country": "US",
     "wof:created": 1698250357,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1880755921,
     "wof:involves": [
+      1159293215,
       102527513,
       102556451,
       1159284625,
       1763588401
     ],
-    "wof:lastmodified": 1698250357,
+    "wof:lastmodified": 1698251849,
     "wof:name": "KE8025 (ICN-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

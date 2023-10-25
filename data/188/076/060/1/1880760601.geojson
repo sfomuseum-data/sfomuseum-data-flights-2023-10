@@ -2,10 +2,12 @@
   "id": 1880760601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-24",
+    "date:cessation_upper": "2023-10-24",
     "date:inception_lower": "2023-10-24",
     "date:inception_upper": "2023-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-24",
+    "edtf:cessation": "2023-10-24T07:07:00Z",
+    "edtf:inception": "2023-10-24T05:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533927,
     "sfomuseum:base_flight_id": "20231024-D-ANZ-9188",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53830242",
+      "swim:gufi": "KO11716300"
+    },
     "wof:country": "US",
     "wof:created": 1698251572,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588339,
-      1159283697
+      1159283697,
+      1159289871
     ],
-    "wof:lastmodified": 1698251572,
+    "wof:lastmodified": 1698251825,
     "wof:name": "UA2400 (SFO-EUG)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

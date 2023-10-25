@@ -2,10 +2,12 @@
   "id": 1880754771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-24",
+    "date:cessation_upper": "2023-10-24",
     "date:inception_lower": "2023-10-24",
     "date:inception_upper": "2023-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-24",
+    "edtf:cessation": "2023-10-24T22:14:03Z",
+    "edtf:inception": "2023-10-24T19:19:59Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.044202,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231024-A-QFA-3755",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N277AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53889422"
+    },
     "wof:country": "US",
     "wof:created": 1698250062,
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1880754771,
     "wof:involves": [
+      1377564285,
       102527513,
       102536441,
       1159283813,
       1763588427,
       1159285043
     ],
-    "wof:lastmodified": 1698250062,
+    "wof:lastmodified": 1698251828,
     "wof:name": "AS1345 (SJD-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",
