@@ -2,10 +2,12 @@
   "id": 1880766813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-25",
+    "date:cessation_upper": "2023-10-25",
     "date:inception_lower": "2023-10-25",
     "date:inception_upper": "2023-10-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-25",
+    "edtf:cessation": "2023-10-25T04:35:32-07:00",
+    "edtf:inception": "2023-10-25T16:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231025-A-AVA-2037",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N33292",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "53975812",
+      "swim:gufi": "KS51974400"
+    },
     "wof:country": "US",
     "wof:created": 1698336899,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -90,9 +104,10 @@
       102533269,
       1159285413,
       1763588329,
-      1159285749
+      1159285749,
+      1159289871
     ],
-    "wof:lastmodified": 1698336899,
+    "wof:lastmodified": 1698338097,
     "wof:name": "UA2114 (SEA-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",
