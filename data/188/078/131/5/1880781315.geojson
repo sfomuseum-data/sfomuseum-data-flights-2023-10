@@ -2,10 +2,12 @@
   "id": 1880781315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-26",
+    "date:cessation_upper": "2023-10-26",
     "date:inception_lower": "2023-10-26",
     "date:inception_upper": "2023-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-26",
+    "edtf:cessation": "2023-10-26T22:37:09Z",
+    "edtf:inception": "2023-10-26T18:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-10-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.052368,
     "geom:longitude": -104.7779705,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529397,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N41135",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "54089887",
+      "swim:gufi": "KO57410500"
+    },
     "wof:country": "US",
     "wof:created": 1698424387,
     "wof:geomhash": "ef2918ce20b8be929fc0d916d0edf585",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1880781315,
     "wof:involves": [
+      1159289939,
       102529397,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1698424387,
+    "wof:lastmodified": 1698424637,
     "wof:name": "UA3890 (SFO-PNS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
