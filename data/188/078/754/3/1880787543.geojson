@@ -2,10 +2,12 @@
   "id": 1880787543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-27",
+    "date:cessation_upper": "2023-10-27",
     "date:inception_lower": "2023-10-27",
     "date:inception_upper": "2023-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-27",
+    "edtf:cessation": "2023-10-27T21:06:14Z",
+    "edtf:inception": "2023-10-27T07:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2023-10-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.9627305,
     "geom:longitude": -4.221753499999998,
     "iata:airline": "CX",
+    "icao:aircraft": "A359",
     "icao:airline": "CPA",
     "lbl:latitude": 37.611565,
     "lbl:longitude": -122.389912,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159284127,
     "sfomuseum:arrival_id": 102541737,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "BLRI",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "54151686"
+    },
     "wof:country": "US",
     "wof:created": 1698510362,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1880787543,
     "wof:involves": [
-      102541737,
-      102527513,
       1159284127,
-      1763588429
+      1763588429,
+      1377564293,
+      102541737,
+      102527513
     ],
-    "wof:lastmodified": 1698510362,
+    "wof:lastmodified": 1698511060,
     "wof:name": "CX873 (SFO-HKG)",
     "wof:parent_id": 1763588429,
     "wof:placetype": "custom",

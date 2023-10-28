@@ -2,10 +2,12 @@
   "id": 1880788699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-28",
+    "date:cessation_upper": "2023-10-28",
     "date:inception_lower": "2023-10-27",
     "date:inception_upper": "2023-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-27",
+    "edtf:cessation": "2023-10-28T00:13:58Z",
+    "edtf:inception": "2023-10-27T23:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-10-27",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "54239832"
+    },
     "wof:country": "US",
     "wof:created": 1698510655,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1698510655,
+    "wof:lastmodified": 1698511064,
     "wof:name": "WN2163 (SFO-SAN)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

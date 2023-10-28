@@ -2,10 +2,12 @@
   "id": 1880787595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-28",
+    "date:cessation_upper": "2023-10-28",
     "date:inception_lower": "2023-10-27",
     "date:inception_upper": "2023-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-27",
+    "edtf:cessation": "2023-10-28T02:10:00Z",
+    "edtf:inception": "2023-10-27T22:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20231027-D-ITY-5965",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N855DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO76622600"
+    },
     "wof:country": "US",
     "wof:created": 1698510374,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880787595,
     "wof:involves": [
-      102526927,
-      102527513,
       1159284261,
       1763588249,
-      1763699293
+      1763699293,
+      1377564285,
+      102526927,
+      102527513
     ],
-    "wof:lastmodified": 1698510374,
+    "wof:lastmodified": 1698511060,
     "wof:name": "DL324 (SFO-ATL)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880783563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-28",
+    "date:cessation_upper": "2023-10-28",
     "date:inception_lower": "2023-10-27",
     "date:inception_upper": "2023-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-27",
+    "edtf:cessation": "2023-10-28T03:18:46Z",
+    "edtf:inception": "2023-10-27T16:36:01Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CI",
     "flysfo:date": "2023-10-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.348278,
     "geom:longitude": -0.5688954999999964,
     "iata:airline": "CI",
+    "icao:aircraft": "B77L",
     "icao:airline": "CAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159284153,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102551487,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "B18772",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "54286517"
+    },
     "wof:country": "US",
     "wof:created": 1698509358,
     "wof:geomhash": "07bfd75b358269393c92373b424876ce",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1880783563,
     "wof:involves": [
+      1159289989,
       102527513,
       102551487,
-      1159284153,
-      -1
+      1159284153
     ],
-    "wof:lastmodified": 1698509358,
+    "wof:lastmodified": 1698511046,
     "wof:name": "CI5346 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

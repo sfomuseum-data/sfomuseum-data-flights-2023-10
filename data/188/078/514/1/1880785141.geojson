@@ -2,10 +2,12 @@
   "id": 1880785141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-27",
+    "date:cessation_upper": "2023-10-27",
     "date:inception_lower": "2023-10-27",
     "date:inception_upper": "2023-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-27",
+    "edtf:cessation": "2023-10-27T14:05:46-07:00",
+    "edtf:inception": "2023-10-27T22:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B78X",
     "icao:airline": "UAL",
     "icao:base_airline": "SAS",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1377564289,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20231027-A-SAS-6886",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N14019",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "54236292",
+      "swim:gufi": "KN71880600"
+    },
     "wof:country": "US",
     "wof:created": 1698509759,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880785141,
     "wof:involves": [
+      1377564289,
       102527513,
       102530049,
       1159285413,
       1763588309,
       1159285129
     ],
-    "wof:lastmodified": 1698509759,
+    "wof:lastmodified": 1698511073,
     "wof:name": "UA1780 (EWR-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",
