@@ -2,10 +2,12 @@
   "id": 1880794779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-28",
+    "date:cessation_upper": "2023-10-28",
     "date:inception_lower": "2023-10-28",
     "date:inception_upper": "2023-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-28",
+    "edtf:cessation": "2023-10-28T21:23:15Z",
+    "edtf:inception": "2023-10-28T16:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20231028-D-AAL-7597",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "54291153"
+    },
     "wof:country": "US",
     "wof:created": 1698596554,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -90,9 +101,10 @@
       102527513,
       1159283813,
       1763588139,
-      1159283849
+      1159283849,
+      1528104577
     ],
-    "wof:lastmodified": 1698596554,
+    "wof:lastmodified": 1698597252,
     "wof:name": "AS819 (SFO-HNL)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
