@@ -2,10 +2,12 @@
   "id": 1880798411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-29",
+    "date:cessation_upper": "2023-10-29",
     "date:inception_lower": "2023-10-29",
     "date:inception_upper": "2023-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-10-29",
+    "edtf:cessation": "2023-10-29T07:45:06Z",
+    "edtf:inception": "2023-10-29T06:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2023-10-29",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "54464112"
+    },
     "wof:country": "US",
     "wof:created": 1698682078,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1698682078,
+    "wof:lastmodified": 1698683715,
     "wof:name": "AS9802 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
