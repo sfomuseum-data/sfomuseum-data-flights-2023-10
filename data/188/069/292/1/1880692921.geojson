@@ -55,6 +55,7 @@
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
     "wof:hierarchy": [
       {
+        "custom_id": 1880692921,
         "flight_id": 1880692921
       }
     ],
@@ -66,11 +67,13 @@
       1159283917,
       1159286259
     ],
-    "wof:lastmodified": 1697560425,
+    "wof:lastmodified": 1717046509,
     "wof:name": "OZ211 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

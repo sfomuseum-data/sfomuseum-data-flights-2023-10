@@ -51,6 +51,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1880717065,
         "flight_id": 1880717065
       }
     ],
@@ -61,11 +62,13 @@
       102533997,
       1159285413
     ],
-    "wof:lastmodified": 1697819859,
+    "wof:lastmodified": 1717046511,
     "wof:name": "UA3920 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

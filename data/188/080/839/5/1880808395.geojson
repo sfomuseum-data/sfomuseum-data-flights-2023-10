@@ -40,6 +40,7 @@
     "wof:geomhash": "acc19bd8dddc70d95e578d4f3021e734",
     "wof:hierarchy": [
       {
+        "custom_id": 1880808395,
         "flight_id": 1880808395
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1698769119,
+    "wof:lastmodified": 1717046520,
     "wof:name": "AA2935 (SFO-JAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

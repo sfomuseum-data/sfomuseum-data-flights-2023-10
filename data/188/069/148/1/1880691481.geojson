@@ -50,6 +50,7 @@
     "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
     "wof:hierarchy": [
       {
+        "custom_id": 1880691481,
         "flight_id": 1880691481
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       102544207
     ],
-    "wof:lastmodified": 1697560402,
+    "wof:lastmodified": 1717046507,
     "wof:name": "SK935 (CPH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

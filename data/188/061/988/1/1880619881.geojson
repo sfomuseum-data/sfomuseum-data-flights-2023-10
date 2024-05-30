@@ -40,6 +40,7 @@
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
     "wof:hierarchy": [
       {
+        "custom_id": 1880619881,
         "flight_id": 1880619881
       }
     ],
@@ -50,11 +51,13 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1696867946,
+    "wof:lastmodified": 1717046506,
     "wof:name": "SY8723 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

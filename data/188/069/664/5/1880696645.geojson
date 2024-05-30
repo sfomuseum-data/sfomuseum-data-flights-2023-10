@@ -57,6 +57,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1880696645,
         "flight_id": 1880696645
       }
     ],
@@ -68,11 +69,13 @@
       1159285523,
       1159283539
     ],
-    "wof:lastmodified": 1697560416,
+    "wof:lastmodified": 1717046512,
     "wof:name": "WS1775 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

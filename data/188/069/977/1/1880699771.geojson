@@ -45,6 +45,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1880699771,
         "flight_id": 1880699771
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284563
     ],
-    "wof:lastmodified": 1697645520,
+    "wof:lastmodified": 1717046514,
     "wof:name": "QR3362 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

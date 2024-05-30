@@ -40,6 +40,7 @@
     "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
     "wof:hierarchy": [
       {
+        "custom_id": 1880786017,
         "flight_id": 1880786017
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1698509983,
+    "wof:lastmodified": 1717046519,
     "wof:name": "AA2930 (SFO-FAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

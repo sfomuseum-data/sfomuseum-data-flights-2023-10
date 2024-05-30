@@ -40,6 +40,7 @@
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
     "wof:hierarchy": [
       {
+        "custom_id": 1880696639,
         "flight_id": 1880696639
       }
     ],
@@ -50,11 +51,13 @@
       -1,
       -1
     ],
-    "wof:lastmodified": 1697560350,
+    "wof:lastmodified": 1717046512,
     "wof:name": "UK8033 (SFO-SIN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

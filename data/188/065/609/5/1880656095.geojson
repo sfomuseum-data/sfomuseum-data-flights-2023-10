@@ -54,6 +54,7 @@
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
+        "custom_id": 1880656095,
         "flight_id": 1880656095
       }
     ],
@@ -64,11 +65,13 @@
       102530559,
       1159284261
     ],
-    "wof:lastmodified": 1697215003,
+    "wof:lastmodified": 1717046503,
     "wof:name": "DL8838 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

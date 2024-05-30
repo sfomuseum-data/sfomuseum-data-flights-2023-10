@@ -45,6 +45,7 @@
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
     "wof:hierarchy": [
       {
+        "custom_id": 1880775605,
         "flight_id": 1880775605
       }
     ],
@@ -55,11 +56,13 @@
       1159284127,
       -1
     ],
-    "wof:lastmodified": 1698424636,
+    "wof:lastmodified": 1717046516,
     "wof:name": "CX872D (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

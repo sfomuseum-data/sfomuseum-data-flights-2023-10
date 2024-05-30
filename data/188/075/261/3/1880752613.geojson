@@ -51,6 +51,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1880752613,
         "flight_id": 1880752613
       }
     ],
@@ -61,11 +62,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1698165442,
+    "wof:lastmodified": 1717046509,
     "wof:name": "UA3894 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

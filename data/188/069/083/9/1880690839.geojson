@@ -53,6 +53,7 @@
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
+        "custom_id": 1880690839,
         "flight_id": 1880690839
       }
     ],
@@ -63,11 +64,13 @@
       1377564297,
       102527513
     ],
-    "wof:lastmodified": 1697560396,
+    "wof:lastmodified": 1717046507,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
     "wof:hierarchy": [
       {
+        "custom_id": 1880692085,
         "flight_id": 1880692085
       }
     ],
@@ -63,11 +64,13 @@
       1159285413,
       1159292085
     ],
-    "wof:lastmodified": 1697560420,
+    "wof:lastmodified": 1717046508,
     "wof:name": "UA3044 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

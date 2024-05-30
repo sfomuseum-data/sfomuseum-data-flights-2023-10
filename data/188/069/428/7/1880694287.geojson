@@ -55,6 +55,7 @@
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
+        "custom_id": 1880694287,
         "flight_id": 1880694287
       }
     ],
@@ -66,11 +67,13 @@
       102527513,
       1159284193
     ],
-    "wof:lastmodified": 1697560407,
+    "wof:lastmodified": 1717046510,
     "wof:name": "DE2093 (SFO-FRA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

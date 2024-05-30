@@ -57,6 +57,7 @@
     "wof:geomhash": "148b50b9c1c42c575a8cdcaf5b598e8f",
     "wof:hierarchy": [
       {
+        "custom_id": 1880696251,
         "flight_id": 1880696251
       }
     ],
@@ -68,11 +69,13 @@
       1159285413,
       1159286015
     ],
-    "wof:lastmodified": 1697560430,
+    "wof:lastmodified": 1717046512,
     "wof:name": "UA863 (SFO-SYD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

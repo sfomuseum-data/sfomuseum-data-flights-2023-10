@@ -40,6 +40,7 @@
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
     "wof:hierarchy": [
       {
+        "custom_id": 1880634101,
         "flight_id": 1880634101
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1696955629,
+    "wof:lastmodified": 1717046500,
     "wof:name": "UA2905 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

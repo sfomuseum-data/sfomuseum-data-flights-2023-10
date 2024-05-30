@@ -40,6 +40,7 @@
     "wof:geomhash": "e771c8a828a2c812a706a0ad1ee88cf0",
     "wof:hierarchy": [
       {
+        "custom_id": 1880580617,
         "flight_id": 1880580617
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1696528770,
+    "wof:lastmodified": 1717046499,
     "wof:name": "UA3823 (GYR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

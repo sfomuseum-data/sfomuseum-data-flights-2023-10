@@ -55,6 +55,7 @@
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
     "wof:hierarchy": [
       {
+        "custom_id": 1880694443,
         "flight_id": 1880694443
       }
     ],
@@ -66,11 +67,13 @@
       1159286015,
       1159283697
     ],
-    "wof:lastmodified": 1697560427,
+    "wof:lastmodified": 1717046510,
     "wof:name": "LH459 (SFO-MUC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

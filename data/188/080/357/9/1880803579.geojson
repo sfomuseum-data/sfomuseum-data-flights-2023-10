@@ -49,6 +49,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1880803579,
         "flight_id": 1880803579
       }
     ],
@@ -59,11 +60,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1698683736,
+    "wof:lastmodified": 1717046517,
     "wof:name": "WN9017 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

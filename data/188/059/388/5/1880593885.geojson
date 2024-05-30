@@ -53,6 +53,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1880593885,
         "flight_id": 1880593885
       }
     ],
@@ -63,11 +64,13 @@
       1159289871,
       102533795
     ],
-    "wof:lastmodified": 1696610073,
+    "wof:lastmodified": 1717046502,
     "wof:name": "UA8262 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

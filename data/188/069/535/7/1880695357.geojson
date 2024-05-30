@@ -50,6 +50,7 @@
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
+        "custom_id": 1880695357,
         "flight_id": 1880695357
       }
     ],
@@ -60,11 +61,13 @@
       1159289871,
       102531131
     ],
-    "wof:lastmodified": 1697560410,
+    "wof:lastmodified": 1717046511,
     "wof:name": "SY396 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

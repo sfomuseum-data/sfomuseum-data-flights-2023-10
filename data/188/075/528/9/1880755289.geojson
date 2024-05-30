@@ -40,6 +40,7 @@
     "wof:geomhash": "dc56b2c846de1922adefc5feb6f75c92",
     "wof:hierarchy": [
       {
+        "custom_id": 1880755289,
         "flight_id": 1880755289
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1698250200,
+    "wof:lastmodified": 1717046511,
     "wof:name": "DL410 (RDD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

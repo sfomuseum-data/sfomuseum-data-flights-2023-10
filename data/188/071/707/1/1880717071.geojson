@@ -53,6 +53,7 @@
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
+        "custom_id": 1880717071,
         "flight_id": 1880717071
       }
     ],
@@ -63,11 +64,13 @@
       102534097,
       1159285413
     ],
-    "wof:lastmodified": 1697819859,
+    "wof:lastmodified": 1717046511,
     "wof:name": "UA3925 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []

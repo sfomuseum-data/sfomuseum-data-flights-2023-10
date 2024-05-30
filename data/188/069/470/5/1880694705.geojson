@@ -53,6 +53,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1880694705,
         "flight_id": 1880694705
       }
     ],
@@ -63,11 +64,13 @@
       1528104575,
       102555307
     ],
-    "wof:lastmodified": 1697560427,
+    "wof:lastmodified": 1717046510,
     "wof:name": "F81849 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-10",
     "wof:superseded_by": [],
     "wof:supersedes": []
